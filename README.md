@@ -20,21 +20,21 @@
 
 ### [C1] Needfinding
 Detailed research on sedentary habits in Politecnico libraries (BCT, Da Vinci). 
-* [View C1 Report](./C1/Compito_1.pdf)
+* [View C1 Report](./C1/Compito1.pdf)
 
 ### [C2] Refinement & Focus
 Definition of the primary Persona (Engineering student) and use-case scenarios.
-* [View C2 Report](./C2/Compito_2.pdf)
+* [View C2 Report](./C2/Compito2.pdf)
 
 ### [C3] Task Analysis & Storyboarding
 Hierarchy of tasks (Simple, Moderate, Complex) and visual storyboard of the interaction.
-* [View C3 Report](./C3/Compito_3.pdf)
+* [View C3 Report](./C3/Compito3.pdf)
 
 ### [C4 & C6] Prototyping & User Testing
 High-fidelity design and validation with target users.
 * **Methodology:** Think Aloud protocol with 3 specific tasks.
 * **Results:** 100% task completion rate with high satisfaction.
-* [View C6 Testing Report](./C6/Compito_6.pdf)
+* [View C6 Testing Report](./C6/Compito6.pdf)
 
 ---
 
