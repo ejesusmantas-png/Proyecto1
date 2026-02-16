@@ -35,6 +35,7 @@ High-fidelity design and validation with target users.
 * **Methodology:** Think Aloud protocol with 3 specific tasks.
 * **Results:** 100% task completion rate with high satisfaction.
 * [View C6 Testing Report](./C6/Compito6.pdf)
+* [🎥 Video Demo (ZIP)](./C6/MicroMove%20FINAL%20PROTOTYPE%20-%20Google%20Chrome%202026-02-16%2018-29-14.zip)
 
 ---
 
