@@ -11,7 +11,7 @@
 **MicroMove** is a mobile solution designed to address sedentary behavior in university libraries. The core challenge tackled is the "social inhibition" students feel when they want to stretch or move in quiet, shared spaces. MicroMove provides discreet, low-impact exercise suggestions that can be performed at a desk without drawing attention.
 
 ## Final Deliverables
-* **Interactive High-Fidelity Prototype:** [Access Figma Prototype](https://marsh-serif-79865023.figma.site/)
+* **Interactive High-Fidelity Prototype:** [Access Figma Prototype](https://unit-puzzle-29679368.figma.site/)
 * **Project Repository:** Organized folders for all course tasks (C1-C6).
 
 ---
